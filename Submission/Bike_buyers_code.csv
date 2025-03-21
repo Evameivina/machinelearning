@@ -1,0 +1,1027 @@
+ID;Marital Status;Gender; Income ;Children;Education;Occupation;Home Owner;Cars;Commute Distance;Region;Age
+12496;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;42
+24107;M;M; Rp30.000 ;3;Partial College;Clerical;Yes;1;0-1 Miles;Europe;43
+14177;M;M; Rp80.000 ;5;Partial College;Professional;No;2;2-5 Miles;Europe;60
+24381;S;M; Rp70.000 ;0;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;41
+25597;S;M; Rp30.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Europe;36
+13507;M;F; Rp10.000 ;2;Partial College;Manual;Yes;0;1-2 Miles;Europe;50
+27974;S;M; Rp160.000 ;2;High School;Management;Yes;4;0-1 Miles;Pacific;33
+19364;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;43
+22155;M;M; Rp20.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;58
+19280;M;M; Rp120.000 ;2;Partial College;Manual;Yes;1;0-1 Miles;Europe;40
+22173;M;F; Rp30.000 ;3;High School;Skilled Manual;No;2;1-2 Miles;Pacific;54
+12697;S;F; Rp90.000 ;0;Bachelors;Professional;No;4;10+ Miles;Pacific;36
+11434;M;M; Rp170.000 ;5;Partial College;Professional;Yes;0;0-1 Miles;Europe;55
+25323;M;M; Rp40.000 ;2;Partial College;Clerical;Yes;1;1-2 Miles;Europe;35
+23542;S;M; Rp60.000 ;1;Partial College;Skilled Manual;No;1;0-1 Miles;Pacific;45
+20870;S;F; Rp10.000 ;2;High School;Manual;Yes;1;0-1 Miles;Europe;38
+23316;S;M; Rp30.000 ;3;Partial College;Clerical;No;2;1-2 Miles;Pacific;59
+12610;M;F; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;47
+27183;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;1;1-2 Miles;Europe;35
+25940;S;M; Rp20.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;55
+25598;M;F; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;36
+21564;S;F; Rp80.000 ;0;Bachelors;Professional;Yes;4;10+ Miles;Pacific;35
+19193;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;0;1-2 Miles;Europe;35
+26412;M;F; Rp80.000 ;5;High School;Management;No;3;5-10 Miles;Europe;56
+27184;S;M; Rp40.000 ;2;Partial College;Clerical;No;1;0-1 Miles;Europe;34
+12590;S;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;63
+17841;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;0-1 Miles;Europe;29
+18283;S;F; Rp100.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;40
+18299;M;M; Rp70.000 ;5;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;44
+16466;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;32
+19273;M;F; Rp20.000 ;2;Partial College;Manual;Yes;0;0-1 Miles;Europe;63
+22400;M;M; Rp10.000 ;0;Partial College;Manual;No;1;0-1 Miles;Pacific;26
+20942;S;F; Rp20.000 ;0;High School;Manual;No;1;5-10 Miles;Europe;31
+18484;S;M; Rp80.000 ;2;High School;Skilled Manual;No;2;1-2 Miles;Pacific;50
+12291;S;M; Rp90.000 ;5;Partial College;Professional;No;2;2-5 Miles;Europe;62
+28380;S;F; Rp10.000 ;5;Partial High School;Manual;No;2;0-1 Miles;Europe;41
+17891;M;F; Rp10.000 ;2;Partial College;Manual;Yes;1;0-1 Miles;Europe;50
+27832;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;30
+26863;S;M; Rp20.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;28
+16259;S;F; Rp10.000 ;4;Partial High School;Manual;Yes;2;0-1 Miles;Europe;40
+27803;S;F; Rp30.000 ;2;Partial College;Clerical;No;0;0-1 Miles;Europe;43
+14347;S;F; Rp40.000 ;2;Bachelors;Management;Yes;2;5-10 Miles;Pacific;65
+17703;M;F; Rp10.000 ;1;Graduate Degree;Manual;Yes;0;0-1 Miles;Europe;40
+17185;M;F; Rp170.000 ;4;Partial College;Professional;No;3;5-10 Miles;Europe;48
+29380;M;F; Rp20.000 ;3;High School;Manual;Yes;0;0-1 Miles;Europe;41
+23986;M;F; Rp20.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;66
+24466;M;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;5-10 Miles;Pacific;46
+29097;S;F; Rp40.000 ;2;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;52
+19487;M;M; Rp30.000 ;2;Partial College;Clerical;No;2;0-1 Miles;Europe;42
+14939;S;M; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;39
+13826;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;0-1 Miles;Europe;28
+20619;S;M; Rp80.000 ;0;Bachelors;Professional;No;4;10+ Miles;Pacific;35
+12558;M;F; Rp20.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;65
+24871;S;F; Rp90.000 ;4;High School;Management;No;3;5-10 Miles;Europe;56
+17319;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;42
+28906;M;M; Rp80.000 ;4;High School;Professional;Yes;2;10+ Miles;Europe;54
+12808;M;M; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;38
+20567;M;M; Rp130.000 ;4;Partial College;Professional;No;4;5-10 Miles;Europe;61
+25502;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;43
+15580;M;M; Rp60.000 ;2;Bachelors;Professional;Yes;1;2-5 Miles;Pacific;38
+24185;S;F; Rp10.000 ;1;High School;Manual;No;1;1-2 Miles;Europe;45
+19291;S;F; Rp10.000 ;2;High School;Manual;Yes;0;0-1 Miles;Europe;35
+16713;M;M; Rp40.000 ;2;Bachelors;Management;Yes;1;0-1 Miles;Pacific;52
+16185;S;M; Rp60.000 ;4;Bachelors;Professional;Yes;3;10+ Miles;Pacific;41
+14927;M;F; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;37
+29337;S;M; Rp30.000 ;2;Partial College;Clerical;Yes;2;5-10 Miles;Pacific;68
+29355;M;F; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;37
+25303;S;M; Rp30.000 ;0;High School;Manual;Yes;1;2-5 Miles;Europe;33
+14813;S;F; Rp20.000 ;4;High School;Manual;Yes;1;0-1 Miles;Europe;43
+16438;M;F; Rp10.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;30
+14238;M;M; Rp120.000 ;0;Partial High School;Professional;Yes;4;10+ Miles;Pacific;36
+16200;S;F; Rp10.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;35
+24857;M;F; Rp130.000 ;3;High School;Professional;Yes;4;0-1 Miles;Europe;52
+26956;S;F; Rp20.000 ;0;Partial College;Manual;No;1;2-5 Miles;Europe;36
+14517;M;F; Rp20.000 ;3;High School;Skilled Manual;No;2;1-2 Miles;Pacific;62
+12678;S;F; Rp130.000 ;4;High School;Management;Yes;4;0-1 Miles;Pacific;31
+16188;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;1-2 Miles;Europe;26
+27969;M;M; Rp80.000 ;0;Bachelors;Professional;Yes;2;10+ Miles;Pacific;29
+15752;M;M; Rp80.000 ;2;High School;Skilled Manual;No;2;1-2 Miles;Pacific;50
+27745;S;M; Rp40.000 ;2;Bachelors;Management;Yes;2;5-10 Miles;Pacific;63
+20828;M;F; Rp30.000 ;4;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;45
+19461;S;F; Rp10.000 ;4;Partial High School;Manual;Yes;2;0-1 Miles;Europe;40
+26941;M;M; Rp30.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;47
+28412;S;M; Rp20.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;29
+24485;S;M; Rp40.000 ;2;Bachelors;Management;No;1;5-10 Miles;Pacific;52
+16514;S;M; Rp10.000 ;0;Partial College;Manual;Yes;1;1-2 Miles;Pacific;26
+17191;S;M; Rp130.000 ;3;Partial College;Professional;No;3;0-1 Miles;Europe;51
+19608;M;M; Rp80.000 ;5;Bachelors;Professional;Yes;4;1-2 Miles;Pacific;40
+24119;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;29
+25458;M;M; Rp20.000 ;1;High School;Manual;No;1;1-2 Miles;Europe;40
+26886;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;0-1 Miles;Europe;29
+28436;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;0-1 Miles;Europe;30
+19562;S;F; Rp60.000 ;2;Bachelors;Professional;Yes;1;2-5 Miles;Pacific;37
+15608;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;33
+16487;S;F; Rp30.000 ;3;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;55
+17197;S;F; Rp90.000 ;5;Partial College;Professional;Yes;2;10+ Miles;Europe;62
+12507;M;M; Rp30.000 ;1;Partial College;Clerical;Yes;1;0-1 Miles;Europe;43
+23940;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;Europe;44
+19441;M;M; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;25
+26852;M;F; Rp20.000 ;3;High School;Manual;Yes;2;0-1 Miles;Europe;43
+12274;S;M; Rp10.000 ;2;High School;Manual;Yes;0;0-1 Miles;Europe;35
+20236;S;M; Rp60.000 ;3;Bachelors;Professional;No;2;0-1 Miles;Pacific;43
+24149;M;M; Rp10.000 ;2;Partial College;Manual;Yes;0;1-2 Miles;Europe;49
+26139;S;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;5-10 Miles;Pacific;45
+18491;S;F; Rp70.000 ;2;High School;Professional;Yes;2;5-10 Miles;Pacific;49
+22707;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;30
+20430;M;M; Rp70.000 ;2;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;52
+27494;S;F; Rp40.000 ;2;Partial College;Skilled Manual;No;2;1-2 Miles;Pacific;53
+26829;M;F; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;38
+28395;S;M; Rp40.000 ;0;Bachelors;Professional;No;0;0-1 Miles;Europe;39
+21006;S;F; Rp30.000 ;1;Partial College;Manual;No;0;0-1 Miles;Europe;46
+14682;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;38
+17650;S;F; Rp40.000 ;2;Partial College;Clerical;Yes;2;1-2 Miles;Europe;35
+29191;S;F; Rp130.000 ;1;Graduate Degree;Management;No;1;0-1 Miles;Pacific;36
+15030;M;M; Rp20.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Pacific;26
+24140;S;M; Rp10.000 ;0;Graduate Degree;Manual;No;0;0-1 Miles;Europe;30
+22496;M;F; Rp30.000 ;1;Bachelors;Skilled Manual;Yes;2;0-1 Miles;Europe;42
+24065;S;F; Rp20.000 ;0;High School;Manual;Yes;0;0-1 Miles;Europe;40
+19914;M;M; Rp80.000 ;5;Bachelors;Management;Yes;2;2-5 Miles;Europe;62
+12871;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;29
+22988;M;F; Rp40.000 ;2;Bachelors;Management;Yes;2;5-10 Miles;Pacific;66
+15922;M;M; Rp150.000 ;2;High School;Professional;Yes;4;0-1 Miles;Europe;48
+12344;S;F; Rp80.000 ;0;Bachelors;Professional;No;3;10+ Miles;Pacific;31
+23627;S;F; Rp100.000 ;3;Partial College;Management;No;4;5-10 Miles;Europe;56
+27775;S;F; Rp40.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Europe;38
+29301;M;M; Rp80.000 ;5;Bachelors;Professional;Yes;4;1-2 Miles;Pacific;40
+12716;S;M; Rp30.000 ;0;Partial College;Clerical;Yes;1;2-5 Miles;Europe;32
+12472;M;M; Rp30.000 ;1;Bachelors;Clerical;Yes;1;2-5 Miles;Europe;39
+20970;S;M; Rp10.000 ;2;Partial College;Manual;Yes;1;0-1 Miles;Europe;52
+26818;S;M; Rp10.000 ;3;High School;Manual;Yes;1;0-1 Miles;Europe;39
+12993;M;M; Rp60.000 ;2;Bachelors;Professional;Yes;1;2-5 Miles;Pacific;37
+14192;M;M; Rp90.000 ;4;High School;Management;Yes;3;5-10 Miles;Europe;56
+19477;M;M; Rp40.000 ;0;Bachelors;Professional;Yes;0;0-1 Miles;Europe;40
+26796;S;M; Rp40.000 ;2;Bachelors;Management;Yes;2;5-10 Miles;Pacific;65
+21094;S;F; Rp30.000 ;2;Partial College;Clerical;Yes;2;0-1 Miles;Europe;42
+12234;M;M; Rp10.000 ;2;Partial College;Manual;Yes;1;2-5 Miles;Europe;52
+28683;S;F; Rp10.000 ;1;High School;Manual;No;1;5-10 Miles;Europe;35
+17994;S;M; Rp20.000 ;2;High School;Manual;Yes;2;0-1 Miles;Europe;42
+24273;M;F; Rp20.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;55
+26547;S;F; Rp30.000 ;2;Partial College;Clerical;No;2;5-10 Miles;Pacific;60
+22500;S;M; Rp40.000 ;0;Bachelors;Professional;No;0;0-1 Miles;Europe;40
+23993;S;F; Rp10.000 ;0;Partial College;Manual;No;1;0-1 Miles;Pacific;26
+14832;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;42
+16614;M;F; Rp80.000 ;0;Bachelors;Professional;Yes;3;10+ Miles;Pacific;32
+20877;S;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;1-2 Miles;Europe;37
+20729;M;F; Rp40.000 ;2;Partial College;Clerical;No;1;0-1 Miles;Europe;34
+22464;M;M; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;37
+19475;M;F; Rp40.000 ;0;Bachelors;Professional;No;0;0-1 Miles;Europe;40
+19675;M;M; Rp20.000 ;4;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;60
+12728;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;1-2 Miles;Europe;27
+26154;M;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;5-10 Miles;Pacific;43
+29117;S;M; Rp100.000 ;1;Bachelors;Management;No;3;0-1 Miles;Pacific;48
+17845;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;1-2 Miles;Europe;32
+25058;M;M; Rp100.000 ;1;Bachelors;Management;Yes;3;2-5 Miles;Pacific;47
+23426;S;M; Rp80.000 ;5;Graduate Degree;Management;Yes;3;0-1 Miles;Pacific;40
+14798;S;F; Rp10.000 ;4;Partial High School;Manual;Yes;2;0-1 Miles;Europe;41
+12664;M;F; Rp130.000 ;5;Partial College;Professional;Yes;4;0-1 Miles;Europe;59
+23979;S;M; Rp10.000 ;2;Partial College;Manual;No;0;0-1 Miles;Europe;50
+25605;S;F; Rp20.000 ;2;Partial College;Manual;No;1;0-1 Miles;Europe;54
+20797;M;F; Rp10.000 ;1;Bachelors;Manual;Yes;0;0-1 Miles;Europe;48
+21980;S;F; Rp60.000 ;1;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;44
+25460;M;F; Rp20.000 ;2;High School;Manual;Yes;0;0-1 Miles;Europe;40
+29181;S;F; Rp60.000 ;2;Bachelors;Professional;No;1;0-1 Miles;Pacific;38
+24279;S;M; Rp40.000 ;2;Partial College;Skilled Manual;No;2;1-2 Miles;Pacific;52
+22402;M;M; Rp10.000 ;0;Partial College;Manual;Yes;1;2-5 Miles;Pacific;25
+15465;M;F; Rp10.000 ;0;Partial College;Manual;No;1;0-1 Miles;Pacific;25
+26757;S;M; Rp90.000 ;1;Bachelors;Professional;Yes;1;2-5 Miles;Pacific;47
+14233;S;M; Rp100.000 ;0;High School;Management;Yes;3;10+ Miles;Pacific;35
+14058;S;M; Rp70.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;41
+12273;M;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;47
+17203;M;F; Rp130.000 ;4;Partial College;Professional;Yes;4;5-10 Miles;Europe;61
+18144;M;F; Rp80.000 ;5;Bachelors;Management;Yes;2;2-5 Miles;Europe;61
+23963;M;M; Rp10.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;33
+17907;M;F; Rp10.000 ;0;Partial College;Manual;Yes;1;2-5 Miles;Pacific;27
+19442;S;M; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;Europe;37
+17504;S;F; Rp80.000 ;2;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;52
+12253;S;F; Rp20.000 ;0;Partial College;Manual;Yes;0;0-1 Miles;Pacific;29
+27304;S;F; Rp110.000 ;2;Partial College;Professional;No;3;5-10 Miles;Europe;48
+14191;M;M; Rp160.000 ;4;Partial College;Professional;No;2;10+ Miles;Europe;55
+12212;M;F; Rp10.000 ;0;Graduate Degree;Manual;Yes;0;0-1 Miles;Europe;37
+25529;S;M; Rp10.000 ;1;Graduate Degree;Manual;Yes;0;0-1 Miles;Europe;44
+22170;M;F; Rp30.000 ;3;Partial College;Clerical;No;2;1-2 Miles;Pacific;55
+19445;M;F; Rp10.000 ;2;High School;Manual;No;1;0-1 Miles;Europe;38
+15265;S;M; Rp40.000 ;2;Bachelors;Management;Yes;2;5-10 Miles;Pacific;66
+28918;M;F; Rp130.000 ;4;High School;Management;No;4;10+ Miles;Europe;58
+15799;M;F; Rp90.000 ;1;Bachelors;Professional;Yes;1;2-5 Miles;Pacific;47
+11047;M;F; Rp30.000 ;3;High School;Skilled Manual;No;2;1-2 Miles;Pacific;56
+18151;S;M; Rp80.000 ;5;Partial College;Professional;No;2;10+ Miles;Europe;59
+20606;M;F; Rp70.000 ;0;Bachelors;Professional;Yes;4;10+ Miles;Pacific;32
+19482;M;M; Rp30.000 ;1;Partial College;Clerical;Yes;1;0-1 Miles;Europe;44
+16489;M;M; Rp30.000 ;3;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;55
+26944;S;M; Rp90.000 ;2;High School;Manual;Yes;0;0-1 Miles;Europe;36
+15682;S;F; Rp80.000 ;5;Bachelors;Management;Yes;2;10+ Miles;Europe;62
+26032;M;F; Rp70.000 ;5;Bachelors;Professional;Yes;4;10+ Miles;Pacific;41
+17843;S;F; Rp10.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;32
+25559;S;M; Rp20.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Pacific;25
+16209;S;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;Europe;36
+11147;M;M; Rp60.000 ;2;Graduate Degree;Management;Yes;1;0-1 Miles;Pacific;67
+15214;S;F; Rp100.000 ;0;Graduate Degree;Management;No;1;1-2 Miles;Pacific;39
+11453;S;M; Rp80.000 ;0;Bachelors;Professional;No;3;10+ Miles;Pacific;33
+24584;S;M; Rp60.000 ;0;Bachelors;Professional;No;3;2-5 Miles;Pacific;31
+12585;M;M; Rp10.000 ;1;High School;Manual;Yes;0;2-5 Miles;Pacific;27
+18626;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;0;1-2 Miles;Europe;33
+29298;S;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;5-10 Miles;Pacific;46
+24842;S;F; Rp90.000 ;3;High School;Professional;No;1;2-5 Miles;Europe;51
+15657;M;M; Rp30.000 ;3;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;46
+11415;S;M; Rp90.000 ;5;Partial College;Professional;No;2;10+ Miles;Europe;62
+28729;S;F; Rp20.000 ;0;Partial High School;Manual;Yes;2;1-2 Miles;Europe;26
+22633;S;F; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;37
+25649;S;F; Rp30.000 ;3;Partial College;Clerical;Yes;0;0-1 Miles;Europe;42
+14669;M;F; Rp80.000 ;4;Graduate Degree;Management;Yes;1;0-1 Miles;Pacific;36
+19299;M;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;Europe;36
+20946;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;30
+11451;S;M; Rp70.000 ;0;Bachelors;Professional;No;4;10+ Miles;Pacific;31
+25553;M;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;65
+27951;S;M; Rp80.000 ;4;Partial College;Professional;No;2;2-5 Miles;Europe;54
+25026;M;M; Rp20.000 ;2;Partial High School;Clerical;Yes;3;5-10 Miles;Pacific;54
+13673;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;25
+16043;S;M; Rp10.000 ;1;Bachelors;Manual;Yes;0;0-1 Miles;Europe;48
+22399;S;M; Rp10.000 ;0;Partial College;Manual;Yes;1;1-2 Miles;Pacific;26
+27696;M;M; Rp60.000 ;1;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;43
+25313;S;M; Rp10.000 ;0;Partial High School;Manual;No;2;1-2 Miles;Europe;35
+13813;M;F; Rp30.000 ;3;Partial College;Clerical;No;0;0-1 Miles;Europe;42
+18711;S;F; Rp70.000 ;5;Bachelors;Professional;Yes;4;10+ Miles;Pacific;39
+19650;M;F; Rp30.000 ;2;Partial College;Clerical;No;2;0-1 Miles;Pacific;67
+14135;M;M; Rp20.000 ;1;Partial College;Manual;Yes;0;1-2 Miles;Europe;35
+12833;S;F; Rp20.000 ;3;High School;Manual;Yes;1;0-1 Miles;Europe;42
+26849;M;M; Rp10.000 ;3;Partial High School;Manual;Yes;2;0-1 Miles;Europe;43
+20962;M;F; Rp20.000 ;1;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;45
+28915;S;M; Rp80.000 ;5;High School;Management;Yes;3;10+ Miles;Europe;57
+22830;M;M; Rp120.000 ;4;Partial College;Management;Yes;3;10+ Miles;Europe;56
+14777;M;F; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;38
+12591;M;F; Rp30.000 ;4;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;45
+24174;M;M; Rp20.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Pacific;27
+24611;S;M; Rp90.000 ;0;Bachelors;Professional;No;4;10+ Miles;Pacific;35
+11340;M;F; Rp10.000 ;1;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;70
+25693;S;F; Rp30.000 ;5;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;44
+25555;M;F; Rp10.000 ;0;Partial College;Manual;No;1;0-1 Miles;Pacific;26
+22006;M;M; Rp70.000 ;5;Partial College;Skilled Manual;Yes;3;5-10 Miles;Pacific;46
+20060;S;F; Rp30.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;34
+17702;M;M; Rp10.000 ;1;Graduate Degree;Manual;Yes;0;0-1 Miles;Europe;37
+12503;S;F; Rp30.000 ;3;Partial College;Clerical;Yes;2;0-1 Miles;Europe;27
+23908;S;M; Rp30.000 ;1;Bachelors;Clerical;No;1;0-1 Miles;Europe;39
+22527;S;F; Rp20.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;29
+19057;M;F; Rp120.000 ;3;Bachelors;Management;No;2;10+ Miles;Europe;52
+18494;M;M; Rp110.000 ;5;Bachelors;Management;Yes;4;2-5 Miles;Pacific;48
+11249;M;F; Rp130.000 ;3;Partial College;Professional;Yes;3;0-1 Miles;Europe;51
+21568;M;F; Rp100.000 ;0;High School;Management;Yes;4;10+ Miles;Pacific;34
+13981;M;F; Rp10.000 ;5;High School;Skilled Manual;No;3;1-2 Miles;Pacific;62
+23432;S;M; Rp70.000 ;0;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;37
+22931;M;M; Rp100.000 ;5;Graduate Degree;Management;No;1;1-2 Miles;Pacific;78
+18172;M;M; Rp130.000 ;4;High School;Professional;Yes;3;0-1 Miles;Europe;55
+12666;S;M; Rp60.000 ;0;Bachelors;Professional;No;4;2-5 Miles;Pacific;31
+20598;M;M; Rp100.000 ;3;Partial High School;Professional;Yes;0;10+ Miles;Europe;59
+21375;S;M; Rp20.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;57
+20839;S;F; Rp30.000 ;3;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;47
+21738;M;M; Rp20.000 ;1;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;43
+14164;S;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;Europe;36
+14193;S;F; Rp100.000 ;3;Partial College;Management;Yes;4;10+ Miles;Europe;56
+12705;M;M; Rp150.000 ;0;Bachelors;Management;Yes;4;0-1 Miles;Pacific;37
+22672;S;F; Rp30.000 ;2;Partial College;Clerical;Yes;0;0-1 Miles;Europe;43
+26219;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;1-2 Miles;Europe;33
+28468;M;F; Rp10.000 ;2;Partial College;Manual;Yes;0;1-2 Miles;Europe;51
+23419;S;F; Rp70.000 ;5;Bachelors;Professional;Yes;3;10+ Miles;Pacific;39
+17964;M;M; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;37
+20919;S;F; Rp30.000 ;2;Partial College;Clerical;Yes;2;0-1 Miles;Europe;42
+20927;S;F; Rp20.000 ;5;High School;Manual;Yes;2;0-1 Miles;Europe;27
+13133;S;M; Rp100.000 ;5;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;47
+19626;M;M; Rp70.000 ;5;Partial College;Skilled Manual;Yes;3;5-10 Miles;Pacific;45
+21039;S;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;No;0;0-1 Miles;Europe;37
+12231;S;F; Rp10.000 ;2;Partial College;Manual;Yes;0;0-1 Miles;Europe;51
+25665;S;F; Rp20.000 ;0;High School;Manual;No;1;1-2 Miles;Europe;28
+24061;M;M; Rp10.000 ;4;Partial High School;Manual;Yes;1;0-1 Miles;Europe;40
+26879;S;F; Rp20.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;30
+12284;M;F; Rp30.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Europe;36
+26654;M;F; Rp90.000 ;1;Graduate Degree;Management;Yes;0;0-1 Miles;Pacific;37
+14545;M;F; Rp10.000 ;2;Partial College;Manual;Yes;0;1-2 Miles;Europe;49
+24201;M;F; Rp10.000 ;2;High School;Manual;Yes;0;0-1 Miles;Europe;37
+20625;M;M; Rp100.000 ;0;High School;Management;Yes;3;10+ Miles;Pacific;35
+16390;S;M; Rp30.000 ;1;Bachelors;Clerical;No;0;0-1 Miles;Europe;38
+14804;S;F; Rp10.000 ;3;Partial High School;Manual;Yes;2;0-1 Miles;Europe;43
+12629;S;M; Rp20.000 ;1;Partial College;Manual;No;0;0-1 Miles;Europe;37
+14696;S;M; Rp10.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;34
+22005;M;F; Rp70.000 ;5;Partial College;Skilled Manual;No;3;5-10 Miles;Pacific;46
+14544;S;M; Rp10.000 ;1;Partial College;Manual;Yes;0;0-1 Miles;Europe;49
+14312;M;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;5-10 Miles;Pacific;45
+29120;S;F; Rp100.000 ;1;Bachelors;Management;Yes;4;2-5 Miles;Pacific;48
+24187;S;F; Rp30.000 ;3;Graduate Degree;Clerical;No;0;0-1 Miles;Europe;46
+15758;M;M; Rp130.000 ;0;Graduate Degree;Management;Yes;0;5-10 Miles;Pacific;48
+29094;M;M; Rp30.000 ;3;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;54
+28319;S;F; Rp60.000 ;1;Partial College;Skilled Manual;No;1;0-1 Miles;Pacific;46
+16406;M;M; Rp40.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Europe;38
+20923;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;42
+11378;S;F; Rp10.000 ;1;High School;Manual;No;1;2-5 Miles;Europe;46
+20851;S;M; Rp20.000 ;0;Partial College;Manual;No;1;2-5 Miles;Europe;36
+21557;S;F; Rp110.000 ;0;Partial College;Management;Yes;3;10+ Miles;Pacific;32
+26663;S;F; Rp60.000 ;2;Bachelors;Professional;No;1;0-1 Miles;Pacific;39
+11896;M;M; Rp100.000 ;1;Graduate Degree;Management;Yes;0;2-5 Miles;Pacific;36
+14189;M;F; Rp90.000 ;4;High School;Professional;No;2;2-5 Miles;Europe;54
+13136;M;F; Rp30.000 ;2;Partial College;Clerical;No;2;5-10 Miles;Pacific;69
+25906;S;F; Rp10.000 ;5;High School;Skilled Manual;No;2;1-2 Miles;Pacific;62
+17926;S;F; Rp40.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Pacific;28
+26928;S;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;62
+20897;M;F; Rp30.000 ;1;Bachelors;Skilled Manual;Yes;2;0-1 Miles;Europe;40
+28207;M;M; Rp80.000 ;4;Graduate Degree;Management;Yes;1;0-1 Miles;Pacific;36
+25923;S;M; Rp10.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;58
+11000;M;M; Rp90.000 ;2;Bachelors;Professional;Yes;0;1-2 Miles;Pacific;40
+20974;M;M; Rp10.000 ;2;Bachelors;Clerical;Yes;1;0-1 Miles;Europe;66
+28758;M;M; Rp40.000 ;2;Partial College;Clerical;Yes;1;1-2 Miles;Europe;35
+11381;M;F; Rp20.000 ;2;Partial College;Manual;Yes;1;2-5 Miles;Europe;47
+17522;M;M; Rp120.000 ;4;Bachelors;Management;Yes;1;2-5 Miles;Pacific;47
+21207;M;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;5-10 Miles;Pacific;46
+28102;M;M; Rp20.000 ;4;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;58
+23105;S;M; Rp40.000 ;3;Partial High School;Clerical;No;2;5-10 Miles;Pacific;52
+18740;M;M; Rp80.000 ;5;Bachelors;Professional;No;1;0-1 Miles;Pacific;47
+21213;S;M; Rp70.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;41
+17352;M;M; Rp50.000 ;2;Graduate Degree;Management;Yes;1;5-10 Miles;Pacific;64
+14154;M;M; Rp30.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;35
+19066;M;M; Rp130.000 ;4;Partial College;Professional;No;3;10+ Miles;Europe;54
+11386;M;F; Rp30.000 ;3;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;45
+20228;M;M; Rp100.000 ;0;Graduate Degree;Management;Yes;0;2-5 Miles;Pacific;40
+16675;S;F; Rp160.000 ;0;Graduate Degree;Management;No;3;0-1 Miles;Pacific;47
+16410;S;F; Rp10.000 ;4;Partial High School;Manual;Yes;2;0-1 Miles;Europe;41
+27760;S;F; Rp40.000 ;0;Graduate Degree;Clerical;No;0;0-1 Miles;Europe;37
+22930;M;M; Rp90.000 ;4;Bachelors;Professional;Yes;0;1-2 Miles;Pacific;38
+23780;S;M; Rp40.000 ;2;Partial College;Clerical;No;2;0-1 Miles;Europe;36
+20994;M;F; Rp20.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Pacific;26
+28379;M;M; Rp30.000 ;1;Bachelors;Skilled Manual;Yes;2;0-1 Miles;Europe;40
+14865;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;2;1-2 Miles;Europe;36
+12663;M;F; Rp90.000 ;5;Partial High School;Skilled Manual;Yes;2;10+ Miles;Europe;59
+24898;S;F; Rp80.000 ;0;Bachelors;Professional;Yes;3;10+ Miles;Pacific;32
+19508;M;M; Rp10.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;30
+11489;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;1-2 Miles;Europe;35
+18160;M;M; Rp130.000 ;3;High School;Professional;Yes;4;5-10 Miles;Europe;51
+25241;M;M; Rp90.000 ;2;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;47
+24369;M;M; Rp80.000 ;5;Graduate Degree;Management;No;2;0-1 Miles;Pacific;39
+27165;S;M; Rp20.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;34
+29424;M;M; Rp10.000 ;0;Partial High School;Manual;Yes;2;0-1 Miles;Europe;32
+15926;S;F; Rp120.000 ;3;High School;Professional;Yes;4;5-10 Miles;Europe;50
+14554;M;M; Rp20.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;66
+16468;S;M; Rp30.000 ;0;Partial College;Clerical;Yes;1;2-5 Miles;Europe;30
+19174;S;F; Rp30.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;32
+19183;S;M; Rp10.000 ;0;Partial High School;Manual;Yes;2;1-2 Miles;Europe;35
+13683;S;F; Rp30.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;32
+17848;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;31
+17894;M;F; Rp20.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;50
+25651;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;No;0;0-1 Miles;Europe;43
+22936;S;F; Rp60.000 ;1;Partial College;Skilled Manual;No;1;0-1 Miles;Pacific;45
+23915;M;M; Rp20.000 ;2;High School;Manual;Yes;2;0-1 Miles;Europe;42
+24121;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;0-1 Miles;Europe;29
+27878;S;M; Rp20.000 ;0;Partial College;Manual;No;0;0-1 Miles;Pacific;28
+13572;S;M; Rp10.000 ;3;High School;Manual;Yes;0;0-1 Miles;Europe;37
+27941;M;F; Rp80.000 ;4;Partial College;Professional;Yes;2;2-5 Miles;Europe;53
+26354;S;M; Rp40.000 ;0;Graduate Degree;Clerical;No;0;0-1 Miles;Europe;38
+14785;S;M; Rp30.000 ;1;Bachelors;Clerical;No;1;1-2 Miles;Europe;39
+17238;S;M; Rp80.000 ;0;Bachelors;Professional;Yes;3;10+ Miles;Pacific;32
+23608;M;F; Rp150.000 ;3;High School;Professional;Yes;3;0-1 Miles;Europe;51
+22538;S;F; Rp10.000 ;0;Partial High School;Manual;Yes;2;1-2 Miles;Europe;33
+12332;M;M; Rp90.000 ;4;High School;Management;Yes;3;5-10 Miles;Europe;58
+17230;M;M; Rp80.000 ;0;Bachelors;Professional;Yes;3;10+ Miles;Pacific;30
+13082;S;M; Rp130.000 ;0;Graduate Degree;Management;Yes;0;2-5 Miles;Pacific;48
+22518;S;F; Rp30.000 ;3;Partial College;Clerical;No;2;0-1 Miles;Europe;27
+13687;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;Europe;33
+23571;M;F; Rp40.000 ;2;Bachelors;Management;Yes;2;0-1 Miles;Pacific;66
+19305;S;F; Rp10.000 ;2;High School;Manual;Yes;1;0-1 Miles;Europe;38
+22636;S;F; Rp40.000 ;0;Bachelors;Clerical;No;0;0-1 Miles;Europe;38
+17310;M;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;0-1 Miles;Pacific;45
+12133;M;F; Rp130.000 ;3;Partial College;Professional;Yes;3;5-10 Miles;Europe;50
+25918;S;F; Rp30.000 ;2;Partial College;Clerical;No;2;5-10 Miles;Pacific;60
+25752;S;F; Rp20.000 ;2;Partial College;Manual;No;1;0-1 Miles;Europe;53
+17324;M;F; Rp100.000 ;4;Bachelors;Professional;Yes;1;10+ Miles;Pacific;46
+22918;S;M; Rp80.000 ;5;Graduate Degree;Management;Yes;3;0-1 Miles;Pacific;50
+12510;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;Europe;43
+25512;S;M; Rp20.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;30
+16179;S;F; Rp80.000 ;5;Bachelors;Professional;Yes;4;1-2 Miles;Pacific;38
+15628;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;Europe;89
+20977;M;M; Rp20.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;64
+18140;M;M; Rp130.000 ;3;Partial College;Professional;No;3;5-10 Miles;Europe;51
+20417;M;M; Rp30.000 ;3;Partial College;Clerical;No;2;5-10 Miles;Pacific;56
+18267;M;M; Rp60.000 ;3;Bachelors;Professional;Yes;2;5-10 Miles;Pacific;43
+13620;S;M; Rp70.000 ;0;Bachelors;Professional;No;3;10+ Miles;Pacific;30
+22974;M;F; Rp30.000 ;2;Partial College;Clerical;Yes;2;5-10 Miles;Pacific;69
+13586;M;M; Rp80.000 ;4;Partial College;Professional;Yes;2;10+ Miles;Europe;53
+17978;M;M; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;37
+12581;S;F; Rp10.000 ;0;Partial College;Manual;No;1;0-1 Miles;Pacific;28
+18018;S;M; Rp30.000 ;3;Partial College;Clerical;Yes;0;0-1 Miles;Europe;43
+28957;S;F; Rp120.000 ;0;Partial High School;Professional;Yes;4;10+ Miles;Pacific;34
+13690;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;1-2 Miles;Europe;34
+12568;M;F; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;64
+13122;M;F; Rp80.000 ;0;Bachelors;Professional;Yes;1;1-2 Miles;Pacific;41
+21184;S;M; Rp70.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;38
+26150;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;0-1 Miles;Pacific;41
+24151;S;M; Rp20.000 ;1;Bachelors;Clerical;No;0;0-1 Miles;Europe;51
+23962;M;F; Rp10.000 ;0;Partial High School;Manual;Yes;2;1-2 Miles;Europe;32
+17793;M;F; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;38
+14926;M;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;38
+16163;S;M; Rp60.000 ;2;Bachelors;Professional;Yes;1;2-5 Miles;Pacific;38
+21365;M;F; Rp10.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;58
+27771;S;M; Rp30.000 ;1;Bachelors;Clerical;Yes;1;1-2 Miles;Europe;39
+26167;S;F; Rp40.000 ;2;Bachelors;Management;No;1;5-10 Miles;Pacific;53
+25792;S;F; Rp110.000 ;3;Bachelors;Management;Yes;4;10+ Miles;Europe;53
+11555;M;F; Rp40.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;80
+22381;M;M; Rp10.000 ;1;Graduate Degree;Manual;Yes;0;0-1 Miles;Europe;44
+17882;M;M; Rp20.000 ;1;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;44
+22174;M;M; Rp30.000 ;3;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;54
+22439;M;F; Rp30.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;37
+18012;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;41
+27582;S;F; Rp90.000 ;2;Bachelors;Professional;No;0;0-1 Miles;Pacific;36
+12744;S;F; Rp40.000 ;2;Partial College;Clerical;Yes;0;0-1 Miles;Europe;33
+22821;M;F; Rp130.000 ;3;Partial College;Professional;Yes;4;0-1 Miles;Europe;52
+20171;M;F; Rp20.000 ;2;Partial College;Manual;Yes;1;0-1 Miles;Europe;46
+11116;M;M; Rp70.000 ;5;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;43
+20053;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;0;0-1 Miles;Europe;34
+25266;S;F; Rp30.000 ;2;Partial College;Clerical;No;2;5-10 Miles;Pacific;67
+17960;M;F; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;35
+13961;M;F; Rp80.000 ;5;Graduate Degree;Management;Yes;3;0-1 Miles;Pacific;40
+11897;S;M; Rp60.000 ;2;Bachelors;Professional;No;1;0-1 Miles;Pacific;37
+11139;S;F; Rp30.000 ;2;Partial College;Clerical;No;2;5-10 Miles;Pacific;67
+11576;M;M; Rp30.000 ;1;Bachelors;Skilled Manual;Yes;2;0-1 Miles;Europe;41
+19255;S;M; Rp10.000 ;2;Partial College;Manual;Yes;1;0-1 Miles;Europe;51
+18153;M;F; Rp100.000 ;2;Bachelors;Management;Yes;4;10+ Miles;Europe;59
+14547;M;M; Rp10.000 ;2;Partial College;Manual;Yes;0;1-2 Miles;Europe;51
+24901;S;M; Rp110.000 ;0;Partial College;Management;No;3;10+ Miles;Pacific;32
+27169;S;M; Rp30.000 ;0;High School;Manual;Yes;1;2-5 Miles;Europe;34
+14805;S;F; Rp10.000 ;3;Partial High School;Manual;Yes;2;0-1 Miles;Europe;43
+15822;M;M; Rp40.000 ;2;Bachelors;Management;Yes;2;0-1 Miles;Pacific;67
+19389;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;28
+17048;S;F; Rp90.000 ;1;Graduate Degree;Management;Yes;0;0-1 Miles;Pacific;36
+22204;M;M; Rp110.000 ;4;Bachelors;Management;Yes;3;2-5 Miles;Pacific;48
+12718;S;F; Rp30.000 ;0;Partial College;Clerical;Yes;1;2-5 Miles;Europe;31
+15019;S;F; Rp30.000 ;3;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;55
+28488;S;M; Rp20.000 ;0;Partial College;Manual;Yes;0;0-1 Miles;Pacific;28
+21891;M;F; Rp110.000 ;0;High School;Management;Yes;3;10+ Miles;Pacific;34
+27814;S;F; Rp30.000 ;3;Partial College;Clerical;No;1;0-1 Miles;Europe;26
+22175;M;F; Rp30.000 ;3;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;53
+29447;S;F; Rp10.000 ;2;Bachelors;Clerical;No;1;2-5 Miles;Europe;68
+19784;M;F; Rp80.000 ;2;High School;Skilled Manual;Yes;2;5-10 Miles;Pacific;50
+27824;S;F; Rp30.000 ;3;Partial College;Clerical;Yes;2;0-1 Miles;Europe;28
+24093;S;F; Rp80.000 ;0;Graduate Degree;Skilled Manual;No;0;0-1 Miles;Europe;40
+19618;M;M; Rp70.000 ;5;Partial College;Skilled Manual;Yes;2;0-1 Miles;Pacific;44
+21561;S;M; Rp90.000 ;0;Bachelors;Professional;No;3;10+ Miles;Pacific;34
+11061;M;M; Rp70.000 ;2;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;52
+26651;S;M; Rp80.000 ;4;Graduate Degree;Management;Yes;0;0-1 Miles;Pacific;36
+21108;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;Europe;43
+12731;S;M; Rp30.000 ;0;High School;Manual;No;1;1-2 Miles;Europe;32
+25307;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;1-2 Miles;Europe;32
+14278;M;F; Rp130.000 ;0;Graduate Degree;Management;Yes;1;10+ Miles;Pacific;48
+20711;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;1-2 Miles;Europe;32
+11383;M;F; Rp30.000 ;3;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;46
+12497;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;42
+16559;S;F; Rp10.000 ;2;High School;Manual;Yes;0;0-1 Miles;Europe;36
+11585;M;F; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;Europe;41
+20277;M;F; Rp30.000 ;2;Partial College;Clerical;No;2;0-1 Miles;Pacific;69
+26765;S;F; Rp70.000 ;5;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;45
+12389;S;M; Rp30.000 ;0;High School;Manual;No;1;2-5 Miles;Europe;34
+13585;M;F; Rp80.000 ;4;Partial College;Professional;No;1;2-5 Miles;Europe;53
+26385;S;M; Rp120.000 ;3;High School;Professional;No;4;5-10 Miles;Europe;50
+12236;M;F; Rp20.000 ;1;Partial College;Manual;Yes;0;0-1 Miles;Europe;65
+21560;M;M; Rp120.000 ;0;Partial High School;Professional;Yes;4;10+ Miles;Pacific;32
+21554;S;F; Rp80.000 ;0;Bachelors;Professional;No;3;10+ Miles;Pacific;33
+13662;S;M; Rp20.000 ;0;Partial High School;Manual;Yes;2;1-2 Miles;Europe;31
+13089;M;F; Rp120.000 ;1;Bachelors;Management;Yes;2;0-1 Miles;Pacific;46
+14791;M;F; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;39
+19331;S;M; Rp20.000 ;2;High School;Manual;Yes;1;0-1 Miles;Europe;40
+17754;S;F; Rp30.000 ;3;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;46
+11149;M;M; Rp40.000 ;2;Bachelors;Management;Yes;2;0-1 Miles;Pacific;65
+16549;S;F; Rp30.000 ;3;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;47
+24305;S;M; Rp100.000 ;1;Bachelors;Management;No;3;0-1 Miles;Pacific;46
+18253;M;F; Rp80.000 ;5;Graduate Degree;Management;Yes;3;0-1 Miles;Pacific;40
+20147;M;F; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;65
+15612;S;M; Rp30.000 ;0;High School;Manual;No;1;1-2 Miles;Europe;28
+28323;S;M; Rp70.000 ;0;Bachelors;Professional;No;2;5-10 Miles;Pacific;43
+22634;S;F; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;38
+15665;M;F; Rp30.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;47
+27585;M;F; Rp90.000 ;2;Bachelors;Professional;No;0;0-1 Miles;Pacific;36
+19748;M;M; Rp20.000 ;4;High School;Skilled Manual;No;2;1-2 Miles;Pacific;60
+21974;S;F; Rp70.000 ;0;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;42
+14032;M;M; Rp70.000 ;2;High School;Skilled Manual;No;2;1-2 Miles;Pacific;50
+22610;M;M; Rp30.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;35
+26984;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;Europe;32
+18294;M;F; Rp90.000 ;1;Bachelors;Professional;Yes;1;5-10 Miles;Pacific;46
+28564;S;F; Rp40.000 ;2;Partial College;Clerical;Yes;0;1-2 Miles;Europe;33
+28521;S;M; Rp40.000 ;0;Graduate Degree;Clerical;No;0;0-1 Miles;Europe;36
+15450;M;M; Rp10.000 ;1;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;70
+25681;S;F; Rp30.000 ;0;Partial College;Clerical;No;1;2-5 Miles;Europe;31
+19491;S;M; Rp30.000 ;2;Partial College;Clerical;Yes;2;0-1 Miles;Europe;42
+26415;M;F; Rp90.000 ;4;Partial High School;Skilled Manual;Yes;4;10+ Miles;Europe;58
+12821;M;M; Rp40.000 ;0;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;39
+15629;S;F; Rp10.000 ;0;Partial High School;Manual;Yes;2;1-2 Miles;Europe;34
+27835;M;M; Rp20.000 ;0;Partial High School;Manual;Yes;2;0-1 Miles;Europe;32
+11738;M;M; Rp60.000 ;4;Bachelors;Professional;Yes;0;2-5 Miles;North America;46
+25065;M;M; Rp70.000 ;2;Partial High School;Skilled Manual;Yes;2;5-10 Miles;North America;48
+26238;S;F; Rp40.000 ;3;Partial College;Clerical;Yes;1;1-2 Miles;North America;31
+23707;S;M; Rp70.000 ;5;Bachelors;Management;Yes;3;10+ Miles;North America;60
+27650;M;M; Rp70.000 ;4;High School;Professional;Yes;0;5-10 Miles;North America;51
+24981;M;M; Rp60.000 ;2;Partial College;Professional;Yes;2;10+ Miles;North America;56
+20678;S;F; Rp60.000 ;3;Bachelors;Skilled Manual;Yes;1;2-5 Miles;North America;40
+15302;S;F; Rp70.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;34
+26012;M;M; Rp80.000 ;1;Partial College;Skilled Manual;Yes;1;2-5 Miles;North America;48
+26575;S;F; Rp40.000 ;0;High School;Skilled Manual;No;2;1-2 Miles;North America;31
+15559;M;M; Rp60.000 ;5;Bachelors;Professional;Yes;1;2-5 Miles;North America;47
+19235;M;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;34
+15275;M;M; Rp40.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;29
+20339;M;F; Rp130.000 ;1;Bachelors;Management;Yes;4;2-5 Miles;North America;44
+25405;M;M; Rp70.000 ;2;Bachelors;Skilled Manual;Yes;1;2-5 Miles;North America;38
+15940;M;M; Rp100.000 ;4;Partial College;Professional;Yes;4;0-1 Miles;North America;40
+25074;M;F; Rp70.000 ;4;Bachelors;Professional;Yes;2;2-5 Miles;North America;42
+24738;M;F; Rp40.000 ;1;Partial College;Clerical;Yes;1;1-2 Miles;North America;51
+16337;M;M; Rp60.000 ;0;Partial College;Skilled Manual;No;2;1-2 Miles;North America;29
+24357;M;M; Rp80.000 ;3;Bachelors;Professional;Yes;1;2-5 Miles;North America;48
+18613;S;M; Rp70.000 ;0;Bachelors;Professional;No;1;2-5 Miles;North America;37
+12207;S;M; Rp80.000 ;4;Bachelors;Management;Yes;0;5-10 Miles;North America;66
+18052;M;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;0-1 Miles;North America;45
+13353;S;F; Rp60.000 ;4;Graduate Degree;Management;Yes;2;10+ Miles;North America;61
+19399;S;M; Rp40.000 ;0;Bachelors;Professional;No;1;2-5 Miles;North America;45
+16154;M;F; Rp70.000 ;5;Bachelors;Professional;Yes;2;2-5 Miles;North America;47
+22219;M;F; Rp60.000 ;2;High School;Professional;Yes;2;5-10 Miles;North America;49
+17269;S;M; Rp60.000 ;3;Bachelors;Professional;No;0;0-1 Miles;North America;47
+23586;M;F; Rp80.000 ;0;Bachelors;Management;Yes;1;1-2 Miles;North America;34
+15740;M;M; Rp80.000 ;5;Bachelors;Management;Yes;2;1-2 Miles;North America;64
+27638;S;M; Rp100.000 ;1;Partial College;Professional;No;3;1-2 Miles;North America;44
+18976;S;M; Rp40.000 ;4;High School;Professional;Yes;2;10+ Miles;North America;62
+19413;S;M; Rp60.000 ;3;Bachelors;Professional;No;1;0-1 Miles;North America;47
+13283;M;M; Rp80.000 ;3;Partial College;Professional;No;2;0-1 Miles;North America;49
+17471;S;F; Rp80.000 ;4;Graduate Degree;Management;Yes;2;5-10 Miles;North America;67
+16791;S;M; Rp60.000 ;5;Bachelors;Management;Yes;3;10+ Miles;North America;59
+15382;M;F; Rp110.000 ;1;Bachelors;Management;Yes;2;1-2 Miles;North America;44
+11641;M;M; Rp50.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;North America;36
+11935;S;F; Rp30.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;28
+13233;M;M; Rp60.000 ;2;Partial College;Professional;Yes;1;10+ Miles;North America;57
+25909;M;M; Rp60.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;27
+14092;S;M; Rp30.000 ;0;Partial High School;Clerical;Yes;2;5-10 Miles;North America;28
+29143;S;F; Rp60.000 ;1;Bachelors;Professional;No;1;0-1 Miles;North America;44
+24941;M;M; Rp60.000 ;3;Bachelors;Management;Yes;2;10+ Miles;North America;66
+24637;M;M; Rp40.000 ;4;High School;Professional;Yes;2;10+ Miles;North America;64
+23893;M;M; Rp50.000 ;3;Bachelors;Skilled Manual;Yes;3;10+ Miles;North America;41
+13907;S;F; Rp80.000 ;3;Bachelors;Skilled Manual;Yes;1;0-1 Miles;North America;41
+14900;M;F; Rp40.000 ;1;Partial College;Clerical;Yes;1;1-2 Miles;North America;49
+11262;M;F; Rp80.000 ;4;Bachelors;Management;Yes;0;0-1 Miles;North America;42
+22294;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;2-5 Miles;North America;37
+12195;S;F; Rp70.000 ;3;Graduate Degree;Management;Yes;2;1-2 Miles;North America;52
+25375;M;M; Rp50.000 ;1;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;34
+11143;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;29
+25898;M;F; Rp70.000 ;2;High School;Professional;Yes;2;2-5 Miles;North America;53
+24397;S;M; Rp120.000 ;2;Bachelors;Management;No;4;1-2 Miles;North America;40
+19758;S;M; Rp60.000 ;0;Partial College;Skilled Manual;No;2;1-2 Miles;North America;29
+15529;M;M; Rp60.000 ;4;Bachelors;Professional;Yes;2;2-5 Miles;North America;43
+19884;M;M; Rp60.000 ;2;High School;Professional;Yes;2;2-5 Miles;North America;55
+18674;S;F; Rp80.000 ;4;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;48
+13453;M;F; Rp130.000 ;3;Bachelors;Management;Yes;3;0-1 Miles;North America;45
+14063;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;0-1 Miles;Pacific;42
+27393;M;F; Rp50.000 ;4;Bachelors;Management;Yes;2;10+ Miles;North America;63
+14417;S;M; Rp60.000 ;3;High School;Professional;Yes;2;10+ Miles;North America;54
+17533;M;M; Rp40.000 ;3;Partial College;Professional;No;2;5-10 Miles;North America;73
+18580;M;F; Rp60.000 ;2;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;40
+17025;S;M; Rp50.000 ;0;Partial College;Skilled Manual;No;1;2-5 Miles;North America;39
+25293;M;M; Rp80.000 ;4;Bachelors;Management;Yes;0;1-2 Miles;North America;42
+24725;M;F; Rp40.000 ;3;Partial College;Clerical;Yes;0;1-2 Miles;North America;31
+23200;M;F; Rp50.000 ;3;Bachelors;Skilled Manual;Yes;2;0-1 Miles;North America;41
+15895;S;F; Rp60.000 ;2;Bachelors;Management;Yes;0;10+ Miles;North America;58
+18577;M;F; Rp60.000 ;0;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;40
+27218;M;F; Rp20.000 ;2;Partial High School;Clerical;No;0;0-1 Miles;North America;48
+18560;M;F; Rp70.000 ;2;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;34
+25006;S;F; Rp30.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;28
+17369;S;M; Rp30.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;27
+14495;M;M; Rp40.000 ;3;Partial College;Professional;No;2;5-10 Miles;North America;54
+18847;M;F; Rp60.000 ;2;Graduate Degree;Management;Yes;2;5-10 Miles;North America;70
+14754;M;M; Rp40.000 ;1;Partial College;Clerical;Yes;1;1-2 Miles;North America;48
+23378;M;M; Rp70.000 ;1;Partial College;Skilled Manual;Yes;1;2-5 Miles;North America;44
+26452;S;M; Rp50.000 ;3;Graduate Degree;Management;Yes;2;10+ Miles;North America;69
+20370;M;M; Rp70.000 ;3;Partial High School;Skilled Manual;Yes;2;5-10 Miles;North America;52
+20528;M;M; Rp40.000 ;2;Partial High School;Skilled Manual;Yes;2;2-5 Miles;North America;55
+23549;S;M; Rp30.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;30
+21751;M;M; Rp60.000 ;3;Graduate Degree;Management;Yes;2;1-2 Miles;North America;63
+21266;S;F; Rp80.000 ;0;Bachelors;Management;Yes;1;1-2 Miles;North America;34
+13388;S;M; Rp60.000 ;2;Partial College;Professional;Yes;1;10+ Miles;North America;56
+18752;S;F; Rp40.000 ;0;High School;Skilled Manual;Yes;1;5-10 Miles;North America;31
+16917;M;M; Rp120.000 ;1;Bachelors;Management;Yes;4;0-1 Miles;North America;38
+15313;M;M; Rp60.000 ;4;Bachelors;Management;Yes;2;2-5 Miles;North America;59
+25329;S;F; Rp40.000 ;3;Partial College;Clerical;No;2;0-1 Miles;North America;32
+20380;M;F; Rp60.000 ;3;Graduate Degree;Management;Yes;2;10+ Miles;North America;69
+23089;M;M; Rp40.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;28
+13749;M;M; Rp80.000 ;4;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;47
+24943;M;M; Rp60.000 ;3;Bachelors;Management;Yes;2;10+ Miles;North America;66
+28667;S;M; Rp70.000 ;2;Bachelors;Skilled Manual;No;1;0-1 Miles;North America;37
+15194;S;M; Rp120.000 ;2;Bachelors;Management;No;3;0-1 Miles;North America;39
+17436;M;M; Rp60.000 ;2;High School;Professional;No;2;1-2 Miles;North America;51
+18935;M;F; Rp130.000 ;0;Graduate Degree;Management;Yes;3;1-2 Miles;North America;40
+16871;M;F; Rp90.000 ;2;High School;Professional;Yes;1;10+ Miles;North America;51
+12100;S;M; Rp60.000 ;2;Bachelors;Management;Yes;0;10+ Miles;North America;57
+23158;M;F; Rp60.000 ;1;Graduate Degree;Professional;No;0;0-1 Miles;North America;35
+18545;M;M; Rp40.000 ;4;High School;Professional;No;2;10+ Miles;North America;61
+18391;S;F; Rp80.000 ;5;Partial College;Professional;Yes;2;5-10 Miles;North America;44
+19812;S;F; Rp70.000 ;2;Partial College;Professional;Yes;0;5-10 Miles;North America;49
+27660;M;M; Rp80.000 ;4;Graduate Degree;Management;Yes;2;5-10 Miles;North America;70
+18058;S;F; Rp20.000 ;3;High School;Skilled Manual;Yes;2;2-5 Miles;North America;78
+20343;M;F; Rp90.000 ;4;Partial College;Professional;Yes;1;1-2 Miles;North America;45
+28997;S;M; Rp40.000 ;2;High School;Professional;No;1;2-5 Miles;North America;58
+24398;M;M; Rp130.000 ;1;Graduate Degree;Management;Yes;4;0-1 Miles;North America;41
+19002;M;F; Rp60.000 ;2;Partial College;Professional;Yes;1;2-5 Miles;North America;57
+28609;M;M; Rp30.000 ;2;High School;Skilled Manual;No;2;0-1 Miles;North America;49
+29231;S;M; Rp80.000 ;4;Partial College;Professional;No;2;0-1 Miles;North America;43
+18858;S;M; Rp60.000 ;2;Partial High School;Skilled Manual;Yes;2;5-10 Miles;North America;52
+20000;M;M; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;35
+25261;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;27
+17458;S;M; Rp70.000 ;3;High School;Professional;Yes;0;5-10 Miles;North America;52
+11644;S;M; Rp40.000 ;2;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;36
+16145;S;F; Rp70.000 ;5;Graduate Degree;Professional;Yes;3;10+ Miles;North America;46
+16890;M;M; Rp60.000 ;3;Partial High School;Skilled Manual;Yes;2;5-10 Miles;North America;52
+25983;M;M; Rp70.000 ;0;Bachelors;Professional;No;1;0-1 Miles;North America;43
+14633;M;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;2-5 Miles;North America;44
+22994;M;F; Rp80.000 ;0;Bachelors;Management;Yes;1;1-2 Miles;North America;34
+22983;S;F; Rp30.000 ;0;Partial High School;Clerical;Yes;2;5-10 Miles;North America;27
+25184;S;M; Rp110.000 ;1;Partial College;Professional;Yes;4;5-10 Miles;North America;45
+14469;M;F; Rp100.000 ;3;Partial College;Professional;Yes;4;1-2 Miles;North America;45
+11538;S;F; Rp60.000 ;4;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;47
+16245;S;F; Rp80.000 ;4;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;47
+17858;M;M; Rp40.000 ;4;High School;Skilled Manual;Yes;2;2-5 Miles;North America;44
+25347;S;F; Rp20.000 ;3;Partial High School;Clerical;No;2;0-1 Miles;North America;49
+15814;S;F; Rp40.000 ;0;High School;Skilled Manual;Yes;1;5-10 Miles;North America;30
+11259;M;F; Rp100.000 ;4;Partial College;Professional;Yes;4;2-5 Miles;North America;41
+11200;M;M; Rp70.000 ;4;Bachelors;Management;Yes;1;1-2 Miles;North America;58
+25101;M;M; Rp60.000 ;5;Bachelors;Professional;Yes;1;2-5 Miles;North America;47
+21801;M;F; Rp70.000 ;4;Partial College;Professional;Yes;1;1-2 Miles;North America;55
+25943;S;F; Rp70.000 ;0;Partial College;Skilled Manual;No;2;0-1 Miles;North America;27
+22127;M;M; Rp60.000 ;3;Graduate Degree;Management;Yes;2;1-2 Miles;North America;67
+20414;M;F; Rp60.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;29
+23672;M;F; Rp60.000 ;3;Graduate Degree;Management;Yes;2;1-2 Miles;North America;67
+29255;S;M; Rp80.000 ;3;Partial College;Professional;No;1;1-2 Miles;North America;51
+28815;M;F; Rp50.000 ;1;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;35
+27753;M;M; Rp40.000 ;0;High School;Skilled Manual;No;2;1-2 Miles;North America;30
+27643;S;M; Rp70.000 ;5;Partial College;Professional;Yes;3;2-5 Miles;North America;44
+13754;S;F; Rp80.000 ;4;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;48
+22088;M;F; Rp130.000 ;1;Bachelors;Management;Yes;2;0-1 Miles;North America;45
+27388;M;M; Rp60.000 ;3;Bachelors;Management;No;2;1-2 Miles;North America;66
+24745;S;F; Rp30.000 ;2;High School;Skilled Manual;No;2;0-1 Miles;North America;49
+29237;S;F; Rp120.000 ;4;Partial College;Professional;Yes;3;5-10 Miles;North America;43
+15272;S;M; Rp40.000 ;0;High School;Skilled Manual;No;2;1-2 Miles;North America;30
+18949;S;M; Rp70.000 ;0;Graduate Degree;Management;Yes;2;5-10 Miles;North America;74
+14507;M;M; Rp100.000 ;2;Graduate Degree;Management;Yes;3;1-2 Miles;North America;65
+25886;M;F; Rp60.000 ;2;Partial College;Professional;Yes;2;2-5 Miles;North America;56
+21441;M;M; Rp50.000 ;4;Bachelors;Management;Yes;2;10+ Miles;North America;64
+21741;M;F; Rp70.000 ;3;Partial College;Professional;Yes;2;5-10 Miles;North America;50
+14572;M;F; Rp70.000 ;3;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;35
+23368;M;F; Rp60.000 ;5;Bachelors;Skilled Manual;Yes;3;10+ Miles;North America;41
+16217;S;F; Rp60.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;39
+16247;S;F; Rp60.000 ;4;Graduate Degree;Skilled Manual;No;0;1-2 Miles;North America;47
+22010;S;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;31
+25872;S;F; Rp70.000 ;2;Bachelors;Management;No;1;2-5 Miles;North America;58
+19164;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;2-5 Miles;North America;38
+18435;S;F; Rp70.000 ;5;Graduate Degree;Management;Yes;2;10+ Miles;North America;67
+14284;S;M; Rp60.000 ;0;Partial College;Professional;No;2;1-2 Miles;North America;32
+11287;M;M; Rp70.000 ;5;Partial College;Professional;No;3;5-10 Miles;North America;45
+13066;S;M; Rp30.000 ;0;High School;Skilled Manual;No;2;1-2 Miles;North America;31
+29106;S;M; Rp40.000 ;0;High School;Skilled Manual;No;2;1-2 Miles;North America;31
+26236;M;F; Rp40.000 ;3;Partial College;Clerical;Yes;1;0-1 Miles;North America;31
+17531;M;M; Rp60.000 ;2;High School;Professional;No;2;5-10 Miles;North America;50
+12964;M;M; Rp70.000 ;1;Partial College;Skilled Manual;Yes;1;0-1 Miles;North America;44
+19133;S;M; Rp50.000 ;2;Bachelors;Skilled Manual;Yes;1;2-5 Miles;North America;38
+24643;S;F; Rp60.000 ;4;Bachelors;Management;Yes;2;10+ Miles;North America;63
+21599;M;F; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;36
+22976;S;M; Rp40.000 ;0;High School;Skilled Manual;No;2;0-1 Miles;North America;28
+27637;S;F; Rp100.000 ;1;Partial College;Professional;No;3;1-2 Miles;North America;44
+11890;M;F; Rp70.000 ;5;Graduate Degree;Professional;Yes;1;0-1 Miles;North America;47
+28580;M;F; Rp80.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;40
+14443;M;M; Rp130.000 ;1;Graduate Degree;Management;Yes;4;0-1 Miles;North America;40
+17864;M;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;2-5 Miles;North America;46
+20505;M;F; Rp40.000 ;5;High School;Professional;No;2;10+ Miles;North America;61
+14592;M;F; Rp60.000 ;0;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;40
+22227;M;F; Rp60.000 ;2;High School;Professional;Yes;2;5-10 Miles;North America;50
+21471;M;M; Rp70.000 ;2;Partial College;Professional;Yes;1;10+ Miles;North America;59
+22252;S;F; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;36
+21260;S;F; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;30
+11817;S;F; Rp70.000 ;4;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;35
+19223;M;F; Rp30.000 ;2;High School;Skilled Manual;Yes;2;1-2 Miles;North America;48
+18517;M;M; Rp100.000 ;3;Bachelors;Management;Yes;4;0-1 Miles;North America;41
+21717;M;M; Rp40.000 ;2;Partial College;Clerical;Yes;1;0-1 Miles;North America;47
+13760;M;M; Rp60.000 ;4;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;47
+18145;M;M; Rp80.000 ;5;Bachelors;Management;No;2;2-5 Miles;Europe;62
+21770;M;M; Rp60.000 ;4;Bachelors;Management;Yes;2;10+ Miles;North America;60
+11165;M;F; Rp60.000 ;0;Partial College;Skilled Manual;No;1;1-2 Miles;North America;33
+16377;S;F; Rp80.000 ;4;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;47
+26248;M;M; Rp20.000 ;3;Partial High School;Clerical;No;2;0-1 Miles;North America;52
+23461;M;F; Rp90.000 ;5;Partial College;Professional;Yes;3;2-5 Miles;North America;40
+29133;S;F; Rp60.000 ;4;Bachelors;Skilled Manual;No;2;0-1 Miles;North America;42
+27673;S;F; Rp60.000 ;3;Graduate Degree;Management;Yes;2;5-10 Miles;North America;53
+12774;M;F; Rp40.000 ;1;Partial College;Clerical;Yes;1;1-2 Miles;North America;51
+18910;S;M; Rp30.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;30
+11699;S;M; Rp60.000 ;0;Bachelors;Skilled Manual;No;2;0-1 Miles;North America;30
+16725;M;M; Rp30.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;26
+28269;S;F; Rp130.000 ;1;Bachelors;Management;No;1;2-5 Miles;North America;45
+23144;M;M; Rp50.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;North America;34
+23376;M;M; Rp70.000 ;1;Bachelors;Professional;Yes;1;2-5 Miles;North America;44
+25970;S;F; Rp60.000 ;4;Bachelors;Skilled Manual;No;2;0-1 Miles;North America;41
+28068;S;F; Rp80.000 ;3;Graduate Degree;Professional;No;0;0-1 Miles;North America;36
+18390;M;M; Rp80.000 ;5;Partial College;Professional;Yes;2;0-1 Miles;North America;44
+29112;S;M; Rp60.000 ;0;Partial College;Professional;No;2;1-2 Miles;North America;30
+14090;M;F; Rp30.000 ;0;Partial High School;Clerical;No;2;0-1 Miles;North America;28
+27040;M;M; Rp20.000 ;2;Partial High School;Clerical;Yes;2;1-2 Miles;North America;49
+23479;S;M; Rp90.000 ;0;Partial College;Professional;No;2;0-1 Miles;North America;43
+16795;M;F; Rp70.000 ;4;Bachelors;Management;Yes;1;1-2 Miles;North America;59
+22014;S;M; Rp30.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;26
+13314;M;M; Rp120.000 ;1;High School;Professional;Yes;4;5-10 Miles;North America;46
+11619;S;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;33
+29132;S;F; Rp40.000 ;0;Bachelors;Professional;Yes;1;2-5 Miles;North America;42
+11199;M;F; Rp70.000 ;4;Bachelors;Management;Yes;1;10+ Miles;North America;59
+20296;S;F; Rp60.000 ;0;Partial College;Skilled Manual;No;1;1-2 Miles;North America;33
+17546;M;F; Rp70.000 ;1;Partial College;Skilled Manual;Yes;1;0-1 Miles;North America;44
+18069;M;M; Rp70.000 ;5;Bachelors;Management;Yes;4;10+ Miles;North America;60
+23712;S;F; Rp70.000 ;2;Bachelors;Management;Yes;1;10+ Miles;North America;59
+23358;M;M; Rp60.000 ;0;High School;Professional;Yes;2;5-10 Miles;North America;32
+20518;M;F; Rp70.000 ;2;Partial College;Professional;Yes;1;10+ Miles;North America;58
+28026;M;F; Rp40.000 ;2;High School;Professional;No;2;2-5 Miles;North America;59
+11669;S;F; Rp70.000 ;2;Bachelors;Skilled Manual;Yes;1;2-5 Miles;North America;38
+16020;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;28
+27090;M;F; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;37
+27198;S;F; Rp80.000 ;0;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;40
+19661;S;M; Rp90.000 ;4;Bachelors;Management;Yes;1;1-2 Miles;North America;38
+26327;M;M; Rp70.000 ;4;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;36
+26341;M;F; Rp70.000 ;5;Graduate Degree;Professional;Yes;2;0-1 Miles;North America;37
+24958;S;F; Rp40.000 ;5;High School;Professional;No;3;2-5 Miles;North America;60
+13287;S;M; Rp110.000 ;4;Bachelors;Management;Yes;4;5-10 Miles;North America;42
+14493;S;F; Rp70.000 ;3;Graduate Degree;Management;No;2;1-2 Miles;North America;53
+26678;S;F; Rp80.000 ;2;Partial High School;Skilled Manual;Yes;2;5-10 Miles;North America;49
+23275;M;M; Rp30.000 ;2;High School;Skilled Manual;Yes;2;1-2 Miles;North America;49
+11270;M;M; Rp130.000 ;2;Graduate Degree;Management;Yes;3;0-1 Miles;North America;42
+20084;M;M; Rp20.000 ;2;High School;Manual;No;2;0-1 Miles;North America;53
+16144;M;M; Rp70.000 ;1;Graduate Degree;Professional;Yes;1;0-1 Miles;North America;46
+27731;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;27
+11886;M;F; Rp60.000 ;3;Bachelors;Professional;Yes;1;0-1 Miles;North America;48
+24324;S;F; Rp60.000 ;4;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;41
+22220;M;M; Rp60.000 ;2;High School;Professional;No;2;1-2 Miles;North America;49
+26625;S;F; Rp60.000 ;0;Graduate Degree;Professional;Yes;1;2-5 Miles;North America;38
+23027;S;M; Rp130.000 ;1;Bachelors;Management;No;4;0-1 Miles;North America;44
+16867;S;F; Rp130.000 ;1;Bachelors;Management;No;3;0-1 Miles;North America;45
+14514;S;F; Rp30.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;26
+19634;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;1;5-10 Miles;North America;31
+18504;M;M; Rp70.000 ;2;Partial High School;Skilled Manual;No;2;1-2 Miles;North America;49
+28799;S;F; Rp40.000 ;2;Partial College;Clerical;No;1;1-2 Miles;North America;47
+11225;M;F; Rp60.000 ;2;Partial College;Professional;Yes;1;10+ Miles;North America;55
+17657;M;M; Rp40.000 ;4;Partial College;Clerical;No;0;0-1 Miles;North America;30
+14913;M;F; Rp40.000 ;1;Partial College;Clerical;Yes;1;1-2 Miles;North America;48
+14077;S;M; Rp30.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;30
+13296;M;M; Rp110.000 ;1;Bachelors;Management;Yes;3;5-10 Miles;North America;45
+20535;M;F; Rp70.000 ;4;Partial College;Professional;Yes;1;10+ Miles;North America;56
+12452;M;M; Rp60.000 ;4;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;47
+28043;M;F; Rp60.000 ;2;Bachelors;Management;Yes;0;10+ Miles;North America;56
+12957;S;F; Rp70.000 ;1;Bachelors;Professional;No;1;0-1 Miles;North America;44
+15412;M;M; Rp130.000 ;2;Graduate Degree;Management;Yes;3;2-5 Miles;North America;69
+20514;M;F; Rp70.000 ;2;Partial College;Professional;Yes;1;2-5 Miles;North America;59
+20758;M;M; Rp30.000 ;2;High School;Skilled Manual;Yes;2;1-2 Miles;North America;50
+11801;M;M; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;36
+22211;M;M; Rp60.000 ;0;Partial College;Professional;Yes;2;5-10 Miles;North America;32
+28087;S;F; Rp40.000 ;0;Partial College;Skilled Manual;No;1;1-2 Miles;North America;27
+23668;M;F; Rp40.000 ;4;High School;Professional;Yes;2;5-10 Miles;North America;59
+27441;M;M; Rp60.000 ;3;High School;Professional;No;2;2-5 Miles;North America;53
+27261;M;M; Rp40.000 ;1;Bachelors;Skilled Manual;No;1;0-1 Miles;North America;36
+18649;S;M; Rp30.000 ;1;High School;Clerical;Yes;2;1-2 Miles;North America;51
+21714;S;F; Rp80.000 ;5;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;47
+23217;S;F; Rp60.000 ;3;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;43
+23797;S;M; Rp20.000 ;3;Partial High School;Clerical;No;2;0-1 Miles;North America;50
+13216;M;F; Rp60.000 ;5;Bachelors;Management;Yes;3;10+ Miles;North America;59
+20657;S;M; Rp50.000 ;2;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;37
+12882;M;M; Rp50.000 ;1;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;33
+25908;M;F; Rp60.000 ;0;Partial College;Skilled Manual;No;1;1-2 Miles;North America;27
+16753;S;F; Rp70.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;34
+14608;M;M; Rp50.000 ;4;Bachelors;Skilled Manual;Yes;3;10+ Miles;North America;42
+24979;M;F; Rp60.000 ;2;Partial College;Professional;Yes;2;2-5 Miles;North America;57
+13313;M;F; Rp120.000 ;1;High School;Professional;No;4;2-5 Miles;North America;45
+18952;M;F; Rp100.000 ;4;Bachelors;Management;Yes;4;0-1 Miles;North America;40
+17699;M;M; Rp60.000 ;1;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;55
+14657;M;M; Rp80.000 ;1;Partial College;Skilled Manual;No;1;0-1 Miles;North America;47
+11540;S;M; Rp60.000 ;4;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;47
+11783;M;F; Rp60.000 ;1;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;34
+14602;M;F; Rp80.000 ;3;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;36
+29030;M;M; Rp70.000 ;2;Partial High School;Skilled Manual;Yes;2;10+ Miles;North America;54
+26490;S;M; Rp70.000 ;2;Bachelors;Management;No;1;2-5 Miles;North America;59
+13151;S;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;27
+17260;M;M; Rp90.000 ;5;Partial College;Professional;Yes;3;0-1 Miles;North America;41
+15372;M;M; Rp80.000 ;3;Partial College;Professional;No;2;2-5 Miles;North America;50
+18105;M;F; Rp60.000 ;2;Partial College;Professional;Yes;1;10+ Miles;North America;55
+19660;M;M; Rp80.000 ;4;Bachelors;Management;Yes;0;0-1 Miles;North America;43
+16112;S;M; Rp70.000 ;4;Bachelors;Professional;Yes;2;2-5 Miles;North America;43
+20698;M;M; Rp60.000 ;4;Bachelors;Skilled Manual;Yes;3;5-10 Miles;North America;42
+20076;S;F; Rp10.000 ;2;High School;Manual;Yes;2;1-2 Miles;North America;53
+24496;S;F; Rp40.000 ;0;High School;Skilled Manual;No;2;0-1 Miles;North America;28
+15468;M;F; Rp50.000 ;1;Bachelors;Skilled Manual;Yes;1;0-1 Miles;North America;35
+28031;S;F; Rp70.000 ;2;Bachelors;Management;No;1;2-5 Miles;North America;59
+26270;S;F; Rp20.000 ;2;Partial High School;Clerical;Yes;2;1-2 Miles;North America;49
+22221;M;M; Rp60.000 ;2;High School;Professional;No;2;1-2 Miles;North America;48
+28228;S;F; Rp80.000 ;2;Partial High School;Skilled Manual;No;2;1-2 Miles;North America;50
+18363;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;28
+23256;S;M; Rp30.000 ;1;High School;Clerical;No;1;5-10 Miles;North America;52
+12768;M;M; Rp30.000 ;1;High School;Clerical;Yes;1;2-5 Miles;North America;52
+20361;M;M; Rp50.000 ;2;Graduate Degree;Management;Yes;2;5-10 Miles;North America;69
+21306;S;M; Rp60.000 ;2;High School;Professional;Yes;2;5-10 Miles;North America;51
+13382;M;M; Rp70.000 ;5;Partial College;Professional;Yes;2;1-2 Miles;North America;57
+20310;S;M; Rp60.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;27
+22971;S;F; Rp30.000 ;0;High School;Skilled Manual;No;2;0-1 Miles;North America;25
+15287;S;F; Rp50.000 ;1;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;33
+15532;S;M; Rp60.000 ;4;Bachelors;Professional;Yes;2;2-5 Miles;North America;43
+11255;M;M; Rp70.000 ;4;Graduate Degree;Management;Yes;2;5-10 Miles;North America;73
+28090;M;M; Rp40.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;27
+15255;M;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;28
+13154;M;M; Rp40.000 ;0;High School;Skilled Manual;No;2;0-1 Miles;North America;27
+26778;S;F; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;31
+23248;M;F; Rp10.000 ;2;High School;Manual;Yes;2;1-2 Miles;North America;53
+21417;S;F; Rp60.000 ;0;Partial College;Professional;No;2;1-2 Miles;North America;32
+17668;S;M; Rp30.000 ;2;High School;Skilled Manual;Yes;2;1-2 Miles;North America;50
+27994;M;F; Rp40.000 ;4;High School;Professional;Yes;2;5-10 Miles;North America;69
+20376;S;F; Rp70.000 ;3;Graduate Degree;Management;Yes;2;5-10 Miles;North America;52
+25954;M;M; Rp60.000 ;0;Partial College;Skilled Manual;No;2;1-2 Miles;North America;31
+15749;S;F; Rp70.000 ;4;Bachelors;Management;Yes;2;10+ Miles;North America;61
+25899;M;F; Rp70.000 ;2;High School;Professional;Yes;2;10+ Miles;North America;53
+13351;S;F; Rp70.000 ;4;Bachelors;Management;Yes;2;1-2 Miles;North America;62
+23333;M;M; Rp40.000 ;0;Partial College;Skilled Manual;No;2;1-2 Miles;North America;30
+21660;M;F; Rp60.000 ;3;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;43
+17012;M;F; Rp60.000 ;3;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;42
+24514;M;M; Rp40.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;30
+27505;S;F; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;30
+29243;S;M; Rp110.000 ;1;Bachelors;Management;Yes;1;5-10 Miles;North America;43
+26582;M;M; Rp60.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;33
+14271;M;M; Rp30.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;32
+23041;S;F; Rp70.000 ;4;High School;Professional;Yes;0;5-10 Miles;North America;50
+29048;S;M; Rp110.000 ;2;Bachelors;Management;No;3;0-1 Miles;North America;37
+24433;M;M; Rp70.000 ;3;High School;Professional;No;1;1-2 Miles;North America;52
+15501;M;M; Rp70.000 ;4;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;36
+13911;S;F; Rp80.000 ;3;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;41
+20421;S;F; Rp40.000 ;0;Partial High School;Clerical;Yes;2;5-10 Miles;North America;26
+16009;S;M; Rp170.000 ;1;Graduate Degree;Management;No;4;0-1 Miles;North America;66
+18411;M;M; Rp60.000 ;2;High School;Professional;No;2;5-10 Miles;North America;51
+19163;M;F; Rp70.000 ;4;Bachelors;Professional;Yes;2;0-1 Miles;North America;43
+18572;M;F; Rp60.000 ;0;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;39
+27540;S;F; Rp70.000 ;0;Bachelors;Professional;No;1;0-1 Miles;North America;37
+19889;S;F; Rp70.000 ;2;Partial High School;Skilled Manual;No;2;2-5 Miles;North America;54
+12922;S;F; Rp60.000 ;3;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;40
+18891;M;F; Rp40.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;28
+16773;M;M; Rp60.000 ;1;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;33
+19143;S;F; Rp80.000 ;3;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;41
+23882;S;F; Rp80.000 ;3;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;37
+11233;M;M; Rp70.000 ;4;Partial College;Professional;Yes;2;10+ Miles;North America;53
+12056;M;M; Rp120.000 ;2;Graduate Degree;Management;Yes;3;5-10 Miles;North America;64
+15555;M;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;2-5 Miles;North America;45
+18423;S;M; Rp80.000 ;2;Partial High School;Skilled Manual;No;2;1-2 Miles;North America;52
+22743;M;F; Rp40.000 ;5;High School;Professional;Yes;2;10+ Miles;North America;60
+25343;S;F; Rp20.000 ;3;Partial High School;Clerical;Yes;2;1-2 Miles;North America;50
+13390;M;F; Rp70.000 ;4;Partial College;Professional;No;1;1-2 Miles;North America;56
+17482;S;F; Rp40.000 ;0;Partial High School;Clerical;Yes;2;5-10 Miles;North America;29
+13176;S;M; Rp130.000 ;0;Graduate Degree;Management;No;2;0-1 Miles;North America;38
+20504;M;F; Rp40.000 ;5;High School;Professional;No;2;2-5 Miles;North America;60
+12205;S;F; Rp130.000 ;2;Bachelors;Management;No;4;0-1 Miles;North America;67
+16751;M;M; Rp60.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;32
+21613;S;M; Rp50.000 ;2;Bachelors;Skilled Manual;No;1;0-1 Miles;North America;39
+24801;S;M; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;35
+17519;M;F; Rp60.000 ;0;Partial College;Professional;Yes;2;5-10 Miles;North America;32
+18347;S;F; Rp30.000 ;0;Partial College;Skilled Manual;No;1;1-2 Miles;North America;31
+29052;S;M; Rp40.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;27
+11745;M;F; Rp60.000 ;1;Bachelors;Professional;Yes;1;0-1 Miles;North America;47
+19147;M;M; Rp40.000 ;0;Bachelors;Professional;No;1;0-1 Miles;North America;42
+19217;M;M; Rp30.000 ;2;High School;Skilled Manual;Yes;2;1-2 Miles;North America;49
+15839;S;M; Rp30.000 ;0;Partial College;Skilled Manual;Yes;1;5-10 Miles;North America;32
+13714;M;F; Rp20.000 ;2;High School;Manual;No;2;1-2 Miles;North America;53
+22330;M;M; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;32
+18783;S;M; Rp80.000 ;0;Bachelors;Management;No;1;0-1 Miles;North America;38
+25041;S;M; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;31
+22046;S;F; Rp80.000 ;0;Bachelors;Management;No;1;0-1 Miles;North America;38
+28052;M;M; Rp60.000 ;2;High School;Professional;Yes;2;10+ Miles;North America;55
+26693;M;M; Rp70.000 ;3;Partial College;Professional;Yes;1;5-10 Miles;North America;49
+24955;S;M; Rp30.000 ;5;Partial High School;Skilled Manual;Yes;3;10+ Miles;North America;60
+26065;S;F; Rp110.000 ;3;Bachelors;Management;No;4;1-2 Miles;North America;42
+13942;M;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;0-1 Miles;North America;46
+11219;M;M; Rp60.000 ;2;High School;Professional;Yes;2;10+ Miles;North America;55
+22118;S;F; Rp70.000 ;3;Graduate Degree;Management;Yes;2;5-10 Miles;North America;53
+23197;M;M; Rp50.000 ;3;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;40
+14883;M;F; Rp30.000 ;1;Bachelors;Skilled Manual;Yes;1;5-10 Miles;North America;53
+27279;S;F; Rp70.000 ;2;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;38
+18322;S;M; Rp30.000 ;0;Partial High School;Clerical;No;2;0-1 Miles;North America;26
+15879;M;M; Rp70.000 ;5;Bachelors;Management;Yes;2;2-5 Miles;North America;61
+28278;M;M; Rp50.000 ;2;Graduate Degree;Management;Yes;2;5-10 Miles;North America;71
+24416;M;M; Rp90.000 ;4;High School;Professional;Yes;2;1-2 Miles;North America;45
+28066;M;M; Rp80.000 ;2;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;37
+11275;M;F; Rp80.000 ;4;Graduate Degree;Management;Yes;2;0-1 Miles;North America;72
+14872;M;M; Rp30.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;32
+16151;M;F; Rp60.000 ;1;Bachelors;Professional;Yes;1;2-5 Miles;North America;48
+19731;M;M; Rp80.000 ;4;Graduate Degree;Management;Yes;2;5-10 Miles;North America;68
+23801;M;F; Rp20.000 ;2;Partial High School;Clerical;Yes;2;0-1 Miles;North America;49
+11807;M;M; Rp70.000 ;3;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;34
+11622;M;M; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;32
+26597;S;F; Rp60.000 ;4;Bachelors;Skilled Manual;No;2;0-1 Miles;North America;42
+27074;M;F; Rp70.000 ;1;Graduate Degree;Skilled Manual;Yes;0;0-1 Miles;North America;35
+19228;M;F; Rp40.000 ;2;Partial College;Clerical;Yes;1;0-1 Miles;North America;48
+13415;S;M; Rp100.000 ;1;Graduate Degree;Management;Yes;3;2-5 Miles;North America;73
+17000;S;F; Rp70.000 ;4;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;43
+14569;M;M; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;35
+13873;M;M; Rp70.000 ;3;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;35
+20401;M;F; Rp50.000 ;4;Bachelors;Management;Yes;2;1-2 Miles;North America;64
+21583;M;F; Rp50.000 ;1;Bachelors;Skilled Manual;Yes;0;0-1 Miles;North America;34
+12029;M;M; Rp30.000 ;0;Partial High School;Clerical;No;2;0-1 Miles;North America;28
+18066;S;M; Rp70.000 ;5;Bachelors;Management;Yes;3;10+ Miles;North America;60
+28192;M;F; Rp70.000 ;5;Graduate Degree;Professional;Yes;3;10+ Miles;North America;46
+16122;M;M; Rp40.000 ;4;High School;Skilled Manual;Yes;2;0-1 Miles;North America;44
+18607;S;F; Rp60.000 ;4;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;42
+28858;S;M; Rp80.000 ;3;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;40
+14432;S;M; Rp90.000 ;4;Graduate Degree;Management;Yes;1;5-10 Miles;North America;73
+26305;S;F; Rp60.000 ;2;Bachelors;Skilled Manual;No;0;0-1 Miles;North America;36
+22050;S;M; Rp90.000 ;4;Bachelors;Management;Yes;1;1-2 Miles;North America;38
+25394;M;M; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;34
+19747;M;M; Rp50.000 ;4;Bachelors;Management;Yes;2;10+ Miles;North America;63
+23195;S;M; Rp50.000 ;3;Bachelors;Skilled Manual;Yes;2;2-5 Miles;North America;41
+21695;M;M; Rp60.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;39
+13934;M;M; Rp40.000 ;4;High School;Skilled Manual;Yes;2;2-5 Miles;North America;46
+13337;M;F; Rp80.000 ;5;Bachelors;Management;Yes;2;5-10 Miles;North America;64
+27190;M;F; Rp40.000 ;3;Partial College;Clerical;Yes;1;1-2 Miles;North America;32
+28657;S;M; Rp60.000 ;2;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;36
+21713;S;M; Rp80.000 ;5;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;47
+21752;M;M; Rp60.000 ;3;Graduate Degree;Management;Yes;2;10+ Miles;North America;64
+27273;S;M; Rp70.000 ;3;Graduate Degree;Professional;No;0;0-1 Miles;North America;35
+22719;S;M; Rp110.000 ;3;Bachelors;Management;Yes;4;2-5 Miles;North America;40
+22042;M;F; Rp70.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;34
+21451;M;F; Rp40.000 ;4;High School;Professional;Yes;2;10+ Miles;North America;61
+20754;M;M; Rp30.000 ;2;High School;Skilled Manual;Yes;2;1-2 Miles;North America;51
+12153;S;F; Rp70.000 ;3;Partial College;Professional;Yes;1;5-10 Miles;North America;49
+16895;M;F; Rp40.000 ;3;Partial College;Professional;No;2;1-2 Miles;North America;54
+26728;S;M; Rp70.000 ;3;Graduate Degree;Management;No;2;1-2 Miles;North America;53
+11090;S;M; Rp90.000 ;2;Partial College;Professional;Yes;1;2-5 Miles;North America;48
+15862;S;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;33
+26495;S;F; Rp40.000 ;2;High School;Professional;Yes;2;10+ Miles;North America;57
+11823;M;F; Rp70.000 ;0;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;39
+23449;M;M; Rp60.000 ;2;High School;Professional;Yes;2;5-10 Miles;North America;48
+23459;M;M; Rp60.000 ;2;High School;Professional;Yes;2;5-10 Miles;North America;50
+19543;M;M; Rp70.000 ;5;Graduate Degree;Professional;No;3;10+ Miles;North America;47
+14914;M;F; Rp40.000 ;1;Partial College;Clerical;Yes;1;1-2 Miles;North America;49
+12033;S;F; Rp40.000 ;0;High School;Skilled Manual;No;2;0-1 Miles;North America;27
+11941;S;M; Rp60.000 ;0;Partial College;Skilled Manual;Yes;0;5-10 Miles;North America;29
+14389;M;M; Rp60.000 ;2;Bachelors;Management;Yes;0;2-5 Miles;North America;59
+18050;M;F; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;0-1 Miles;North America;45
+19856;M;F; Rp60.000 ;4;Bachelors;Management;Yes;2;2-5 Miles;North America;60
+11663;M;M; Rp70.000 ;4;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;36
+27740;M;F; Rp40.000 ;0;High School;Skilled Manual;Yes;2;5-10 Miles;North America;27
+23455;S;M; Rp80.000 ;2;Partial High School;Skilled Manual;No;2;1-2 Miles;North America;50
+15292;S;F; Rp60.000 ;1;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;35
+21587;M;F; Rp60.000 ;1;Graduate Degree;Skilled Manual;Yes;0;2-5 Miles;North America;34
+23513;M;F; Rp40.000 ;3;Partial College;Professional;Yes;2;5-10 Miles;North America;54
+24322;M;F; Rp60.000 ;4;Bachelors;Skilled Manual;No;2;0-1 Miles;North America;42
+26298;M;F; Rp50.000 ;1;Bachelors;Skilled Manual;Yes;0;2-5 Miles;North America;34
+25419;S;M; Rp50.000 ;2;Bachelors;Skilled Manual;No;1;0-1 Miles;North America;38
+13343;M;F; Rp90.000 ;5;Bachelors;Management;Yes;2;1-2 Miles;North America;63
+11303;S;F; Rp90.000 ;4;High School;Professional;No;3;1-2 Miles;North America;45
+21693;S;F; Rp60.000 ;0;Graduate Degree;Skilled Manual;No;0;0-1 Miles;North America;40
+28056;M;M; Rp70.000 ;2;Partial High School;Skilled Manual;Yes;2;10+ Miles;North America;53
+11788;S;F; Rp70.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;34
+22296;M;M; Rp70.000 ;0;Bachelors;Professional;No;1;0-1 Miles;North America;38
+15319;M;F; Rp70.000 ;4;Bachelors;Management;No;1;1-2 Miles;North America;59
+17654;S;F; Rp40.000 ;3;Partial College;Clerical;Yes;1;1-2 Miles;North America;30
+14662;M;M; Rp60.000 ;1;Bachelors;Professional;Yes;1;0-1 Miles;North America;48
+17541;M;F; Rp40.000 ;4;High School;Skilled Manual;Yes;2;2-5 Miles;North America;43
+13886;M;F; Rp70.000 ;4;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;35
+13073;M;F; Rp60.000 ;0;Partial College;Professional;Yes;2;5-10 Miles;North America;30
+21940;M;M; Rp90.000 ;5;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;47
+20196;M;M; Rp60.000 ;1;Partial College;Skilled Manual;Yes;1;2-5 Miles;North America;45
+23491;S;M; Rp100.000 ;0;Partial College;Professional;No;4;1-2 Miles;North America;45
+16651;M;F; Rp120.000 ;2;Bachelors;Management;Yes;3;5-10 Miles;North America;62
+16813;M;M; Rp60.000 ;2;Partial College;Professional;Yes;2;10+ Miles;North America;55
+16007;M;F; Rp90.000 ;5;Bachelors;Management;Yes;2;1-2 Miles;North America;66
+27434;S;M; Rp70.000 ;4;Partial College;Professional;Yes;1;10+ Miles;North America;56
+27756;S;F; Rp50.000 ;3;Bachelors;Skilled Manual;No;1;0-1 Miles;North America;40
+23818;M;F; Rp50.000 ;0;Graduate Degree;Skilled Manual;Yes;0;1-2 Miles;North America;33
+19012;M;M; Rp80.000 ;3;Bachelors;Management;Yes;1;1-2 Miles;North America;56
+18329;S;M; Rp30.000 ;0;Partial High School;Clerical;No;2;5-10 Miles;North America;27
+29037;M;M; Rp60.000 ;0;Graduate Degree;Professional;No;0;0-1 Miles;North America;39
+26576;M;F; Rp60.000 ;0;Partial College;Skilled Manual;Yes;2;5-10 Miles;North America;31
+12192;S;F; Rp60.000 ;2;Partial High School;Skilled Manual;No;2;1-2 Miles;North America;51
+14887;M;F; Rp30.000 ;1;High School;Clerical;Yes;1;5-10 Miles;North America;52
+11734;M;M; Rp60.000 ;1;Partial College;Skilled Manual;No;1;0-1 Miles;North America;47
+17462;M;M; Rp70.000 ;3;Graduate Degree;Management;Yes;2;5-10 Miles;North America;53
+20659;M;M; Rp70.000 ;3;Graduate Degree;Professional;Yes;0;0-1 Miles;North America;35
+28004;M;F; Rp60.000 ;3;Bachelors;Management;Yes;2;10+ Miles;North America;66
+19741;S;F; Rp80.000 ;4;Graduate Degree;Management;Yes;2;5-10 Miles;North America;65
+17450;M;M; Rp80.000 ;5;Partial College;Professional;Yes;3;5-10 Miles;North America;45
+17337;S;M; Rp40.000 ;0;High School;Skilled Manual;Yes;1;5-10 Miles;North America;31
+18594;S;F; Rp80.000 ;3;Bachelors;Skilled Manual;Yes;3;10+ Miles;North America;40
+15982;M;M; Rp110.000 ;5;Partial College;Professional;Yes;4;2-5 Miles;North America;46
+28625;S;M; Rp40.000 ;2;Partial College;Clerical;No;1;1-2 Miles;North America;47
+11269;M;M; Rp130.000 ;2;Graduate Degree;Management;Yes;2;0-1 Miles;North America;41
+25148;M;M; Rp60.000 ;2;High School;Professional;No;2;1-2 Miles;North America;48
+13920;S;F; Rp50.000 ;4;Bachelors;Skilled Manual;Yes;2;0-1 Miles;North America;42
+23704;S;M; Rp40.000 ;5;High School;Professional;Yes;4;10+ Miles;North America;60
+28972;S;F; Rp60.000 ;3;Graduate Degree;Management;Yes;2;10+ Miles;North America;66
+22730;M;M; Rp70.000 ;5;Bachelors;Management;Yes;2;10+ Miles;North America;63
+29134;M;M; Rp60.000 ;4;Bachelors;Skilled Manual;No;3;10+ Miles;North America;42
+14332;S;F; Rp30.000 ;0;High School;Skilled Manual;No;2;5-10 Miles;North America;26
+19117;S;F; Rp60.000 ;1;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;36
+22864;M;M; Rp90.000 ;2;Partial College;Professional;No;0;5-10 Miles;North America;49
+11292;S;M; Rp150.000 ;1;Partial College;Professional;No;3;0-1 Miles;North America;44
+13466;M;M; Rp80.000 ;5;Partial College;Professional;Yes;3;1-2 Miles;North America;46
+23731;M;M; Rp60.000 ;2;High School;Professional;Yes;2;2-5 Miles;North America;54
+28672;S;M; Rp70.000 ;4;Graduate Degree;Professional;Yes;0;2-5 Miles;North America;35
+11809;M;M; Rp60.000 ;2;Bachelors;Skilled Manual;Yes;0;0-1 Miles;North America;38
+19664;S;M; Rp100.000 ;3;Bachelors;Management;No;3;1-2 Miles;North America;38
+12121;S;M; Rp60.000 ;3;High School;Professional;Yes;2;10+ Miles;North America;53
+13507;M;F; Rp10.000 ;2;Partial College;Manual;Yes;0;1-2 Miles;Europe;50
+19280;M;M; Rp120.000 ;2;Partial College;Manual;Yes;1;0-1 Miles;Europe;40
+22173;M;F; Rp30.000 ;3;High School;Skilled Manual;No;2;1-2 Miles;Pacific;54
+12697;S;F; Rp90.000 ;0;Bachelors;Professional;No;4;10+ Miles;Pacific;36
+11434;M;M; Rp170.000 ;5;Partial College;Professional;Yes;0;0-1 Miles;Europe;55
+25323;M;M; Rp40.000 ;2;Partial College;Clerical;Yes;1;1-2 Miles;Europe;35
+23542;S;M; Rp60.000 ;1;Partial College;Skilled Manual;No;1;0-1 Miles;Pacific;45
+20870;S;F; Rp10.000 ;2;High School;Manual;Yes;1;0-1 Miles;Europe;38
+23316;S;M; Rp30.000 ;3;Partial College;Clerical;No;2;1-2 Miles;Pacific;59
+12610;M;F; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;47
+27183;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;1;1-2 Miles;Europe;35
+25940;S;M; Rp20.000 ;2;Partial High School;Clerical;Yes;2;5-10 Miles;Pacific;55
+25598;M;F; Rp40.000 ;0;Graduate Degree;Clerical;Yes;0;0-1 Miles;Europe;36
+21564;S;F; Rp80.000 ;0;Bachelors;Professional;Yes;4;10+ Miles;Pacific;35
+19193;S;M; Rp40.000 ;2;Partial College;Clerical;Yes;0;1-2 Miles;Europe;35
+26412;M;F; Rp80.000 ;5;High School;Management;No;3;5-10 Miles;Europe;56
+27184;S;M; Rp40.000 ;2;Partial College;Clerical;No;1;0-1 Miles;Europe;34
+12590;S;M; Rp30.000 ;1;Bachelors;Clerical;Yes;0;0-1 Miles;Europe;63
+17841;S;M; Rp30.000 ;0;Partial College;Clerical;No;1;0-1 Miles;Europe;29
+18283;S;F; Rp100.000 ;0;Bachelors;Professional;No;1;5-10 Miles;Pacific;40
+18299;M;M; Rp70.000 ;5;Partial College;Skilled Manual;Yes;2;5-10 Miles;Pacific;44
+16466;S;F; Rp20.000 ;0;Partial High School;Manual;No;2;0-1 Miles;Europe;32
+19273;M;F; Rp20.000 ;2;Partial College;Manual;Yes;0;0-1 Miles;Europe;63
+22400;M;M; Rp10.000 ;0;Partial College;Manual;No;1;0-1 Miles;Pacific;26
+20942;S;F; Rp20.000 ;0;High School;Manual;No;1;5-10 Miles;Europe;31
+18484;S;M; Rp80.000 ;2;High School;Skilled Manual;No;2;1-2 Miles;Pacific;50
